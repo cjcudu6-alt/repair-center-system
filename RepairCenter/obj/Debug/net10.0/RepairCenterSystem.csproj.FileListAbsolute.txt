@@ -1,0 +1,15 @@
+C:\Users\RH\Desktop\RepairCenter\bin\Debug\net10.0\RepairCenterSystem.exe
+C:\Users\RH\Desktop\RepairCenter\bin\Debug\net10.0\RepairCenterSystem.deps.json
+C:\Users\RH\Desktop\RepairCenter\bin\Debug\net10.0\RepairCenterSystem.runtimeconfig.json
+C:\Users\RH\Desktop\RepairCenter\bin\Debug\net10.0\RepairCenterSystem.dll
+C:\Users\RH\Desktop\RepairCenter\bin\Debug\net10.0\RepairCenterSystem.pdb
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.AssemblyInfoInputs.cache
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.AssemblyInfo.cs
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.csproj.CoreCompileInputs.cache
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.dll
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\refint\RepairCenterSystem.dll
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.pdb
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCenterSystem.genruntimeconfig.cache
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\ref\RepairCenterSystem.dll
+C:\Users\RH\Desktop\RepairCenter\obj\Debug\net10.0\RepairCe.E58F1F0A.Up2Date
